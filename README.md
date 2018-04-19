@@ -2,6 +2,7 @@
 
 * My W*sedaに自動でログインしてくれるスクリプトです。
 GreaseMonkeyとかで実行してください。  
+勝手にコピってどうぞ。
 * ちゃんと動くか試した環境はChrome 65.0.3325.181（Official Build） （64 ビット） with TamperMonkeyです。  
 その他のやり方で動かなかったら諦めるか書き換えるかしてください。  
 * ここに貼ってあるコードはTamperMonkeyで使ったやつです。  
