@@ -9,5 +9,5 @@
 // ==/UserScript==
 
 (function() {
-    toLogin();
+    document.getElementById("btnLogin").click();
 })();
