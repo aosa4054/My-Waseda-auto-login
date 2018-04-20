@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
-// @match        https://iaidp.ia.waseda.jp/idp/profile/SAML2/Redirect/SSO?execution=*
+// @match        https://iaidp.ia.waseda.jp/idp/profile/SAML2/Redirect/SSO*
 // @grant        none
 //@require       https://iaidp.ia.waseda.jp/idp/js/jquery.min.js
 // ==/UserScript==
