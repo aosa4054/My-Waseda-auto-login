@@ -3,7 +3,7 @@
 ### 当方jsなんもわかりません。優しくしてください。
 
 * My W*sedaに自動でログインしてくれるスクリプトです。
-GreaseMonkeyとかで実行してください。  
+ChromeならTamperMonkey、FirefoxならGreaseMonkeyとかの拡張機能をインストールして実行してください。  
 勝手にコピってどうぞ。
 * ちゃんと動くか試した環境はChrome 65.0.3325.181（Official Build） （64 ビット） with TamperMonkeyです。  
 **4/20 Firefox 60.0b13 (64-bit) with Greasemonkeyでも動くようにちょっと変えました。**  
