@@ -5,8 +5,9 @@
 * My W*sedaに自動でログインしてくれるスクリプトです。<br>
 ChromeならTamperMonkey、FirefoxならGreaseMonkeyとかの拡張機能をインストールして実行してください。  
 勝手にコピってどうぞ。
-* 拡張機能からuser scriptを3つ作成して3つのファイルの中身を一つずつコピペしてください。それだけです。お手軽！
-* ちゃんと動くか試した環境はChrome 65.0.3325.181（Official Build） (64-bit) with TamperMonkeyです。  
+* 拡張機能からuser scriptを3つ作成して3つのファイルの中身を一つずつコピペしてください。それだけです。お手軽！<br>
+（自分のユーザーIDとパスワードはちゃんと自分のにしてね）
+* ちゃんと動くか試した環境はChrome 65.0.3325.181 (Official Build) (64-bit) with TamperMonkeyです。  
 **4/20 Firefox 60.0b13 (64-bit) with Greasemonkeyでも動くようにちょっと変えました。** 
 基本的にFirefoxかChromeでなら動くと思いますが動かなかったら諦めるか書き換えるかしてください。  
 * 便宜的に.jsにしてます。
