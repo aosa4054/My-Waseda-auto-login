@@ -20,4 +20,4 @@ ChromeならTamperMonkey、FirefoxならGreaseMonkeyとかの拡張機能をイ�
 ### 使い方
 
 User scriptを設定してこのページに行くと勝手にログインが完了されます。
-![まじでむり](https://github.com/aosa4054/My-Waseda-auto-login/blob/master/images/loginlogin.jpg)
+![まじでむり](https://github.com/aosa4054/My-Waseda-auto-login/blob/master/images/login.jpg)
