@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
-// @match        https://my.waseda.jp/portal/view/portal-top-view
+// @match        https://my.waseda.jp/portal/view/portal-top-view*
 // @grant        none
 // ==/UserScript==
 
