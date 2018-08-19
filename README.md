@@ -29,4 +29,6 @@ User scriptを設定してこのページに行くと勝手にログインが完
 ### 科目登録・成績照会のやり方
 
 My Wasedaのロゴの横にある「科目登録・成績照会」をクリックすることで、別タブで科目登録・成績照会のページに移ります。
-![ほんまむり](https://github.com/aosa4054/My-Waseda-auto-login/blob/master/images/mywaseda_top.jpg)
+![ほんまむり](https://github.com/aosa4054/My-Waseda-auto-login/blob/master/images/mywaseda_top.jpg)  
+  
+よろしくお願いします。
